@@ -1,0 +1,35 @@
+{
+  "IntervalShow": 120,
+  "Configs": [
+      {
+        "Show" : false,
+        "ShowBeforeTutor" : false,
+        "Iterator" : 2,
+        "Id" : "SelectFigher"
+      },
+      {
+        "Show" : false,
+        "ShowBeforeTutor" : false,
+        "Iterator" : 2,
+         "Id" : "Map"
+      },
+      {
+        "Show" : true,
+        "ShowBeforeTutor" : false,
+        "Iterator" : 2,
+        "Id" : "Versus"
+      },
+      {
+        "Show" : true,
+        "ShowBeforeTutor" : false,
+        "Iterator" : 2,
+         "Id" : "Pause"
+      },
+      {
+        "Show" : true,
+        "ShowBeforeTutor" : true,
+        "Iterator" : 0,
+        "Id" : "EndGame"
+      }
+  ]
+}
