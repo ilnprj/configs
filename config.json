@@ -1,5 +1,6 @@
 {
   "IntervalShow": 120,
+  "Version": "0.0.1",
   "Configs": [
       {
         "Show" : false,
