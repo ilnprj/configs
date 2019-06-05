@@ -1,5 +1,5 @@
 {
-  "IntervalShow": 120,
+  "IntervalShow": 60,
   "Configs": [
       {
         "Show" : false,
